@@ -51,7 +51,10 @@ Dengan cara ini, aplikasi tetap ringan, efisien, dan mudah dikembangkan ke fitur
 🎨 Tampilan rapi dengan Card & Material Design.
 💡 Contoh Screenshot
 Tampilan Input	Tampilan Daftar
-(Ganti dengan screenshot kamu sendiri dari hasil run di browser/emulator.)
+
+<img width="1019" height="571" alt="image" src="https://github.com/user-attachments/assets/7543a19d-6201-422a-b040-3b80ac29d2dd" />
+
+<img width="1019" height="568" alt="image" src="https://github.com/user-attachments/assets/e80b31ec-fa01-49fe-b3fe-8d1f70a4bf20" />
 
 
 🚀 Cara Menjalankan Aplikasi
